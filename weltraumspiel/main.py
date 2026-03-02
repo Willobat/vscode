@@ -7,4 +7,3 @@ def update():
     pass
 def draw():
     screen.fill("black")
-    

@@ -1,0 +1,14 @@
+using UnityEngine;
+
+public class MeinScript : MonoBehaviour
+{
+    void Start()
+    {
+        Debug.Log("Spiel startet!");
+    }
+
+    public void MeineFunktion()
+    {
+        Debug.Log("Funktion wurde ausgeführt!");
+    }
+}
